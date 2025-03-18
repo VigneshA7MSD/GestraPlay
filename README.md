@@ -38,7 +38,7 @@ Uses QMediaPlayer and QVideoWidget.
 
 AI_Gesture_Video_Player/
 │-- model                 # Main application script
-│-- implementation        # colap files, screenshot
+│-- implementation        # screenshot
 │-- README.md               # Project documentation
 │-- assets/                 # Icons, images, or additional resources like video
 │-- Documents/                 # Report and PPT
